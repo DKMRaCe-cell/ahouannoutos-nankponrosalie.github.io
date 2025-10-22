@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahouannoutosénankponrosalie.github.io/sitemap.xml
